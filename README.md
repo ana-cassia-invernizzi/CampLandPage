@@ -1,7 +1,7 @@
 # CampFire Land Page
 Land Page de um serviço de acampamento.
 
-O principal objetivo desse projeto foi criar melhorar um site já existente.
+O principal objetivo desse projeto foi melhorar um site já existente.
 
 # Tecnologias usadas:
 * HTML;
